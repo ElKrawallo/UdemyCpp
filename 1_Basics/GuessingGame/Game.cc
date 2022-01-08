@@ -21,7 +21,7 @@ void game()
             }
             else if (number % 2 == 0)
             {
-                std::cout << "You won the wooden spoon!" << std::endl;
+                std::cout << "You won the wooden spoon!!" << std::endl;
             }
             else
             {
